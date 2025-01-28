@@ -1,4 +1,4 @@
-#include "./qmc5883l/qmc5883l.c"
+#include "qmc5883l.h"
 
 /* Example usage for the qmc5883l library.
  * @return 1 if failure, 0 on success
